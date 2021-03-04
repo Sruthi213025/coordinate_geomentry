@@ -20,7 +20,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    url='https://github.com/Sruthi213025/sruthi30.git',
-    author='S Sruthi',
+    url='https://github.com/Sruthi213025/coordinate_geomentry.git',
+    author='Sruthi S',
     author_email='sruthisugan3025@gmail.com'
 )
